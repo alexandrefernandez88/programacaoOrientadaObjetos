@@ -1,6 +1,5 @@
 # Atividade 4 de Programação Orientada a Objeto
 # Alexandre Fernandez - RA10482120706
-# Hugo Botter Zarpelão - RA10482120760
 
 
 
